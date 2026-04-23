@@ -17,4 +17,4 @@ sample tracking systems, proteomics and physico-chemical analysis.
 | [sample-tracking-system](https://github.com/vickyinbiotech/sample-tracking-system-) | Biological sample tracking — BPL workflow | Bash · SQL |
 | [ngs-quality-pipeline](https://github.com/vickyinbiotech/ngs-quality-pipeline) | Quality control pipeline | Snakemake · Python |
 | [biodata-analysis-python](https://github.com/vickyinbiotech/biodata-analysis-python) | Exploratory biological data analysis | Python · Pandas |
-| [proteomics-r-analysis](https://github.com/vickyinbiotech/proteomics-r-analysis) | Differential expression analysis | R · Bioconductor |
+| [proteomics-r-analysis](https://github.com/vickyinbiotech/proteomics—r-analysis-) | Differential expression analysis | R · Bioconductor |
